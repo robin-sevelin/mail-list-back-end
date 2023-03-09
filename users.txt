@@ -1,0 +1,34 @@
+[
+  {
+    "userName": "Robin",
+    "userMail": "robin@mail.com"
+  },
+  {
+    "userName": "Bert",
+    "userMail": "bert@mail.com"
+  },
+  {
+    "userName": "Sven",
+    "userMail": "sven@mail.com"
+  },
+  {
+    "userName": "Alfons",
+    "userMail": "alfons@mail.com"
+  },
+  {
+    "userName": "Benny",
+    "userMail": "benny@mail.com"
+  },
+  {
+    "userName": "Benny",
+    "userMail": "benny@mail.com"
+  },
+  {
+    "name": "hej",
+    "mail": "robin@hotmail.com"
+  },
+  {
+    "userName": "robin",
+    "userMail": "rob@hotmail.com"
+  }
+]
